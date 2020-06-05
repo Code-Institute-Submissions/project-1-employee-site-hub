@@ -1,3 +1,13 @@
 body{
-    
+  font-family: 'Josefin Sans', sans-serif;  
 }
+
+.logo-header {
+      background-color:#222731;
+      height: 80px;
+    }
+
+.logo-header img {
+    height: 80px;
+    position: absolute;
+    }
