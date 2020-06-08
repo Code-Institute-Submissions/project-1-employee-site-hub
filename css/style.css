@@ -41,12 +41,5 @@ body{
 }
 
 .navbar-nav{
-    color:white;
     float: right;
 }
-
-#navbarDropdownMenuLink {
-      margin: auto;
-     font-weight: bold;
-     text-align: center;
-     }
