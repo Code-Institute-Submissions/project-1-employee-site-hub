@@ -35,11 +35,6 @@ body{
 
 
 /*--------------------------------------------NavBar*/
-
-.navbar-toggler {
-    float: right;
-}
-
-.navbar-nav{
+.navbar-toggler{
     float: right;
 }
