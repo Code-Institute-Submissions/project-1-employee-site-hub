@@ -1,5 +1,6 @@
 body{
   font-family: 'Josefin Sans', sans-serif;  
+  background-color:red;
   }
 
 .border-body {
@@ -9,7 +10,7 @@ body{
     left: 0;
     padding-left: 0;
     padding-right: 0;
-    z-index: 1;
+    
     }
 
 /*--------------------------------------------Heading*/
@@ -37,4 +38,22 @@ body{
 /*--------------------------------------------NavBar*/
 .navbar-toggler{
     float: right;
+}
+
+.navbar-brand img{
+    height: 50px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+/*--------------------------------------------MediaQueries*/
+
+@media screen and (max-width: 400px) {
+  
+.container-header {
+    background-color:#222731;
+    height: 50px;
+  }
+
 }
