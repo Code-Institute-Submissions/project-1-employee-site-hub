@@ -35,12 +35,15 @@ body{
 
 
 /*--------------------------------------------NavBar*/
+
+
+
 .navbar-toggler{
     float: right;
 }
 
-.navbar-brand img{
-    height: 80px;
+.navbar-brand img {
+    height:60px;
     position: absolute;
     left: 0px;
     top: 0px;
@@ -53,7 +56,9 @@ body{
 
 /*--------------------------------------------MediaQueries*/
 
-@media screen and (max-width: 400px) {
-  
+@media screen and (max-width: 576px) {
+.container-header{
+    height: 70px;
+}  
 
 }
