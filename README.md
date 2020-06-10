@@ -2,6 +2,26 @@
 
 [View the live project here.](https://codeinstitute.net)
 
+WHAT IS @WORK?
+“@WORK” is the AIDD Sligo intranet page revamped with a fresh and contemporary interface which gives you immediate access to our internal business.  The concept of @WORK is to advance and build awareness of the business to which we all contribute to.
+
+WHAT’S NEW?
+When @WORK is launched, you will have access to:
+New Department pages with updated information & links
+Site Notifications Stream 
+Business Space – Providing key features of our business  to you with one click – Example - “IDEAS”
+Team Space – Providing useful links which are team based*
+Workspace – Providing one click access to everyday links, apps and programs in one place.
+
+* As part of the Team Space, we have introduced two new “Apps” designed with feedback from employees 2012 eNPS survey:
+Communications App – Consolidates useful communication items for a team. Designed for Team Meetings.
+Reward & Recognition – Brings the new Reward & Recognition initiative to everyone with one click!
+
+WHO IS THIS FOR?
+@WORK is designed for EVERYONE!! 
+
+
+
 This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
