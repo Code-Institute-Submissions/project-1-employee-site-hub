@@ -34,9 +34,7 @@ body{
     }
 
 
-/*--------------------------------------------NavBar*/
-
-
+/*--------------------------------------------NavBar-header-max-width-576px*/
 
 .navbar-toggler{
     float: right;
@@ -50,8 +48,21 @@ body{
     margin-bottom: 20px;
 }
 
+
+
+#navbarDropdownMenuLink {
+    color:darkgrey;
+    font-size: 14px;
+    font-weight: bold;
+     }
+
 .navbar-nav .nav-link{
     text-align: center;
+}
+
+.dropdown-item{
+    font-size: 12px;
+    text-transform: uppercase;
 }
 
 /*--------------------------------------------MediaQueries*/
