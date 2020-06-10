@@ -1,6 +1,6 @@
 body{
   font-family: 'Josefin Sans', sans-serif;  
-  background-color:red;
+  background-color:rgb(228, 226, 226);
   }
 
 .border-body {
@@ -57,12 +57,18 @@ body{
     color:darkgrey;
     font-size: 14px;
     font-weight: bold;
+    text-transform: uppercase;
      }
 
 .navbar-nav .nav-link{
     text-align: center;
 }
 
+.nav-item{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
 .dropdown-item{
     font-size: 12px;
     text-transform: uppercase;
