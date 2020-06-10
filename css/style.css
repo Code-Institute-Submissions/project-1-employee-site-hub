@@ -41,13 +41,16 @@ body{
 }
 
 .navbar-brand img {
-    height:60px;
+    height:50px;
     position: absolute;
     left: 0px;
     top: 0px;
-    margin-bottom: 20px;
 }
 
+.navbar-toggler-icon {
+    width: 1em;
+    height: 1em;
+}
 
 
 #navbarDropdownMenuLink {
@@ -68,8 +71,9 @@ body{
 /*--------------------------------------------MediaQueries*/
 
 @media screen and (max-width: 576px) {
-.container-header{
-    height: 70px;
-}  
+ .container-header{
+ 
+    height: auto;
+}
 
 }
