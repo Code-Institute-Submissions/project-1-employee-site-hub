@@ -1,4 +1,4 @@
-
+git 
 
 body{
   font-family: 'Josefin Sans', sans-serif;  
@@ -86,10 +86,11 @@ body{
       padding-right: 1em;
       }
 
-.carousel-inner > .item > img, .carousel-inner > .item > a > img {
-    width: 100%;
-    height: 100%;
-  }
-  
+/*--------------------------------------------Carousal*/
+.col-lg-8{
+  padding-left: 0;
+  padding-right: 0;
+}
+
   
 
