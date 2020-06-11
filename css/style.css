@@ -34,15 +34,14 @@ body{
 
 
 /*--------------------------------------------NavBar-header-max-width-576px*/
-
+.col-md-10 {
+    min-height: 0px;
+}
 .navbar-toggler{
     float: right;
     padding: 0;
 }
 
-.navbar {
-  overflow: hidden;
-}
 
 .navbar-brand img {
     height: 3em;
@@ -85,6 +84,10 @@ body{
 
 
 /*--------------------------------------------NavBar-for larger screens*/
+.container-largenavbar {
+height: auto;
+}
+
 .navbar-nav li{
       padding-left: 1em;
       padding-right: 1em;
@@ -105,9 +108,5 @@ body{
   padding-top: 0;
   padding-bottom: 0;
  
-}
-
-.col-md-10 {
-    min-height: 0px;
 }
 
