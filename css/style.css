@@ -1,4 +1,4 @@
-git 
+
 
 body{
   font-family: 'Josefin Sans', sans-serif;  
@@ -38,6 +38,10 @@ body{
 .navbar-toggler{
     float: right;
     padding: 0;
+}
+
+.navbar {
+  overflow: hidden;
 }
 
 .navbar-brand img {
@@ -87,10 +91,23 @@ body{
       }
 
 /*--------------------------------------------Carousal*/
-.col-md-8{
+.col-md-8 {
   padding-left: 0;
   padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  
 }
 
-  
+.col-8{
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+ 
+}
+
+.col-md-10 {
+    min-height: 0px;
+}
 
