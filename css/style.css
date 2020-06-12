@@ -137,11 +137,12 @@ background-color:#64ccc9;
   background-color: black;
   border: none;
   color: white;
-  padding: 5px 5px;
+  padding: 3% 3%;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 10px 2px;
+  margin-left: 3%;
+  margin-top: 5%;
   cursor: pointer;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
@@ -155,9 +156,19 @@ background-color:#64ccc9;
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+   .container-vision h4 {
+    margin-top: 1%;
+    margin-bottom: 1%;
+} 
+    
     .container-vision p{
     margin-bottom:0;
     margin-top:0;
+}
+.button-vision {
+    padding: 1% 1%;
+    margin-top:0;
+    margin-bottom: 2%;
 }
 }
 
@@ -167,6 +178,11 @@ background-color:#64ccc9;
 .container-vision p{
     margin-bottom:0;
     margin-top:0;
+}
+.button-vision {
+    padding: 1% 1%;
+    margin-top:1%;
+    margin-bottom: 2%;
 }
 }
 
