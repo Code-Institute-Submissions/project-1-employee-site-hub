@@ -133,7 +133,7 @@ background-color:#64ccc9;
     margin-left: 3%;
 }
 
-.container-button-vision {
+.button-vision {
   background-color: black;
   border: none;
   color: white;
@@ -147,6 +147,10 @@ background-color:#64ccc9;
   transition-duration: 0.4s;
 }
 
+.button-vision:hover {
+  background-color:black;
+  color: #64ccc9;
+}
 /*--------------------------------------------MediaQueries*/
 
 /* Extra small devices (phones, 600px and down) */
