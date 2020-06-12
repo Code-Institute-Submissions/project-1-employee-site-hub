@@ -133,6 +133,20 @@ background-color:#64ccc9;
     margin-left: 3%;
 }
 
+.container-button-vision {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
 /*--------------------------------------------MediaQueries*/
 
 /* Extra small devices (phones, 600px and down) */
