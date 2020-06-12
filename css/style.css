@@ -69,19 +69,24 @@ body{
     text-align: center;
 }
 
-.nav-item .nav-link a{
+.nav-item .nav-link {
     font-size: 80%;
     color:darkgrey;
     text-transform: uppercase;
     font-weight: bold;
 }
-.dropdown-item a{
+
+.nav-link a{
+    font-size: 100%;
+    color:darkgrey;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.dropdown-item {
     font-size: 80%;
     text-transform: uppercase;
 }
-
-/*--------------------------------------------MediaQueries*/
-
 
 
 /*--------------------------------------------NavBar-for larger screens*/
@@ -111,3 +116,11 @@ height: auto;
  
 }
 
+/*--------------------------------------------Vision Container*/
+.container-vision{
+background-color:#64ccc9;
+}
+
+
+
+/*--------------------------------------------MediaQueries*/
