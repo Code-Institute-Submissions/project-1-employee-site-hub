@@ -134,18 +134,19 @@ background-color:#64ccc9;
 }
 
 .button-vision {
-  background-color: black;
-  border: none;
-  color: white;
-  padding: 3% 3%;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin-left: 3%;
-  margin-top: 5%;
-  cursor: pointer;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
+    background-color: #EEB33B;
+    border-radius: 12px;
+    border: none;
+    color: white;
+    padding: 3% 3%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 3%;
+    margin-top: 5%;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
 }
 
 .button-vision:hover {
@@ -169,6 +170,10 @@ background-color:#64ccc9;
     padding: 1% 1%;
     margin-top:0;
     margin-bottom: 2%;
+}
+.col-md-4{
+    margin-left: 0;
+    padding-left: 0;
 }
 }
 
