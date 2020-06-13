@@ -177,18 +177,18 @@ background-color:#64ccc9;
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-   .container-vision h4 {
+   .container-vision h3{
     margin-top: 1%;
     margin-bottom: 1%;
     font-size: 100%;
-    padding-left: 2%;
+    text-align: center;
 } 
     
     .container-vision p{
     margin-bottom:0;
     margin-top:0;
     font-size: 100%;
-    padding-left: 2%;
+    text-align: center;
 }
 
 .col-md-4{
@@ -207,14 +207,14 @@ background-color:#64ccc9;
 .col-md-4{
     margin-left: 0;
 }
-.container-vision h4 {
+.container-vision h3 {
     margin-top: 3%;
     font-size: 100%;
-    padding-left: 2%;
+    text-align: center;
 }
 .container-vision p {
    font-size: 100%;
-    padding-left: 2%;
+    text-align: center;
 }
 .button-vision-sm{
     margin-bottom: 1%;
@@ -226,7 +226,7 @@ background-color:#64ccc9;
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-.container-vision h4 {
+.container-vision h3 {
     margin-top: 3%;
     font-size: 120%;
     padding-left: 2%;
@@ -245,7 +245,7 @@ background-color:#64ccc9;
     margin-bottom: 4%;
     margin-top: 4%;
 }
-.container-vision h4{
+.container-vision h3{
     margin-top: 3%;
     color: #2a2b33;
     font-size: 200%;
