@@ -127,7 +127,9 @@ height: auto;
 background-color:#64ccc9;
 }
 
-
+.container-button-vision{
+    text-align: center;
+}
 .button-vision {
     background-color: #EEB33B;
     border-radius: 12px;
@@ -140,7 +142,7 @@ background-color:#64ccc9;
     cursor: pointer;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
-}
+    }
 
 .button-vision-sm {
     background-color: #EEB33B;
