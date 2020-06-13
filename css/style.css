@@ -116,12 +116,18 @@ height: auto;
 }
 .carousel-caption{
     position: absolute;
-    top: 0;
-    left: 0;
-    height:50%;
-    width: 50%;
+    text-align: center;
     background-color: rgba(0, 0, 0, 0.5);
+    padding-bottom: 0;
 }
+
+.carousel-caption h3{
+    font-size: 120%;
+}
+.carousel-caption p{
+    font-size: 100%;
+}
+
 /*--------------------------------------------Vision Container*/
 .container-vision{
 background-color:#64ccc9;
