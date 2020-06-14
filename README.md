@@ -11,13 +11,13 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 -   ### User stories
 
-    -   #### First Time Visitor Goals
+    -   #### New Hire Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        1. As a New Hire Visitor, I want all my commonly used software links in one place, so I can save time 
+        2. As a New Hire Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+        3. As a New Hire Visitor, I want to be able to easily navigate throughout the site to find content.
 
-    -   #### Returning Visitor Goals
+    -   #### Returning Employee Goals
 
         1. As a Returning Visitor, I want to find information about coding challenges.
         2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
