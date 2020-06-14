@@ -19,7 +19,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
     -   #### Returning Employee Goals
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
+        1. As a Returning Visitor, I want to find information about Teams I am part off.
         2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
         3. As a Returning Visitor, I want to find community links.
         
