@@ -1,5 +1,3 @@
-
-
 body{
   font-family: 'Josefin Sans', sans-serif;  
   background-color:rgb(228, 226, 226);
@@ -152,29 +150,13 @@ color: white;
     transition-duration: 0.4s;
     }
 
-.button-vision-sm {
-    background-color: #EEB33B;
-    border-radius: 12px;
-    border: none;
-    color: white;
-    padding: 1% 1%;
-    text-align: center;
-    font-size: 80%;
-    text-decoration: none;
-    display: inline-block;
-    cursor: pointer;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-}
+
 .button-vision:hover {
   background-color:black;
   color: #64ccc9;
 }
 
-.button-vision-sm:hover {
-  background-color:black;
-  color: #64ccc9;
-}
+
 
 /*--------------------------------------------Container-People*/
 .container-people{
@@ -219,7 +201,7 @@ text-align: center;
     margin-left: 0;
     padding-left: 0;
 }
-.button-vision-sm{
+.button-vision{
     margin-bottom: 1%;
 }
 
@@ -244,7 +226,7 @@ text-align: center;
    font-size: 100%;
     text-align: center;
 }
-.button-vision-sm{
+.button-vision{
     margin-bottom: 1%;
 }
 
@@ -266,6 +248,10 @@ text-align: center;
     font-size: 100%;
     padding-left: 2%;
 }
+
+.button-vision{
+    margin-bottom: 1%;
+}
 }
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
@@ -284,6 +270,10 @@ text-align: center;
 .container-vision p{
     font-size: 120%;
     text-align: center;
+}
+
+.button-vision{
+    margin-bottom: 1%;
 }
 
 }
