@@ -31,7 +31,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
         
      
-     -   #### Intranet Owner Goals
+    -   #### Intranet Owner Goals
         1. As the Site Owner, I want to provide Employees with 'A Hub' to share information. 
         2. As the Site Owner, I want the Site Vision and the Site Behavior displayed.  Also, information about the site 
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
