@@ -13,7 +13,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
     -   #### New Hire Goals
 
-        1. As a New Hire Visitor, I want all my commonly used software links in one place, so I can save time 
+        1. As a New Hire Visitor, I want all my commonly used software links in one place a ‘Hub’, so much time will be saved
         2. As a New Hire Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
         3. As a New Hire Visitor, I want to be able to easily navigate throughout the site to find content.
 
@@ -22,10 +22,18 @@ It is designed to be responsive and accessible on a range of devices, making it 
         1. As a Returning Visitor, I want to find information about coding challenges.
         2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
         3. As a Returning Visitor, I want to find community links.
+        
+        
 
     -   #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
         2. As a Frequent User, I want to check to see if there are any new blog posts.
+        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        
+     
+     -   #### Intranet Owner Goals
+        1. As the Site Owner, I want to provide Employees with 'A Hub' to share information. 
+        2. As the Site Owner, I want the Site Vision and the Site Behavior displayed.  Also, information about the site 
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
 -   ### Design
