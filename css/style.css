@@ -179,16 +179,7 @@ text-align: center;
     background-repeat: no-repeat;
 }
 
-/*--------------------------------------------Our Site Container*/
 
-.container-oursite {
-    background-color: #EEB33B;
-}
-
-.col-12{
-    margin-left: 0;
-    padding-left: 0;
-}
 
 /*--------------------------------------------MediaQueries*/
 
