@@ -32,7 +32,7 @@ body{
     }
 
 
-/*--------------------------------------------NavBar-header-max-width-576px*/
+/*--------------------------------------------NavBar-header*/
 .col-md-10 {
     min-height: 0px;
 }
@@ -157,7 +157,11 @@ color: white;
   color: #64ccc9;
 }
 
+/*--------------------------------------------Container-Our-Site*/
 
+.container-oursite{
+background-color: #EEB33B;
+}
 
 /*--------------------------------------------Container-People*/
 .container-people{
