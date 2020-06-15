@@ -164,7 +164,7 @@ background-color: whitesmoke;
 text-align: center; 
 }
 
-.container-people-title h3{
+.container-title h3{
     padding-bottom: 2%;
     padding-top: 2%;
 }
@@ -177,6 +177,17 @@ text-align: center;
     border-radius: 50%;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+/*--------------------------------------------Our Site Container*/
+
+.container-oursite {
+    background-color: #EEB33B;
+}
+
+.col-12{
+    margin-left: 0;
+    padding-left: 0;
 }
 
 /*--------------------------------------------MediaQueries*/
