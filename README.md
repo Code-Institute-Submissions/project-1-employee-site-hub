@@ -23,8 +23,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
     -   #### Returning Employee Goals
 
         1. As a Returning Visitor, I want to update Teams files.Add the Idea I have to the IDEA form, and maybe win some Time in Lieu               for my effort 
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+        2.  As a Returning Visitor, I want to Sign Up to the latest HR Inititive e.g. CARE Program, Heart Foundation Presentation etc
         
         
 
