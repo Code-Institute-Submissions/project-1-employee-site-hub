@@ -6,6 +6,8 @@ This is the ADD, Sligo Employee Intranet, which gives immediate access to our in
 
 The site will be hosted in SharePoint.  Each Deparment will have a page.  Deparment Page design will be consistant and always carry the site header and navigation Bar.  Business Teams will have the opportunity to host their SharePoint document Libraries & lists from the site e.g the 'IDEA' & 'Good Catch' initiatives. The Workspace dropdown will contain links to common applications, websites etc.  The 'Contact Us' link will provide users an opportunity to provide feedback and suggestions.
 
+The Sign Up button in the Site Vision area currently links to Our CARE Program, next month there will be a new promotion.  Once the User clicks on the submit button the SharePoint list for the particular promotion will be updated with the persons email. 
+
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for employees.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
@@ -20,7 +22,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
         2. As a New Hire, I want to easily understand the main purpose of the site and learn more about the organisation.
         3. As a New Hire, I want to be able to easily navigate throughout the site to find content.
 
-    -   #### Returning Employee Goals
+    -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to update Teams files.Add that great Idea I have to the IDEA form, and maybe win some Time in Lieu               for my effort 
         2.  As a Returning Visitor, I want to Sign Up to the latest HR Inititive e.g. CARE Program, Heart Foundation Presentation etc
