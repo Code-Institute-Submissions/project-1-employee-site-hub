@@ -2,7 +2,10 @@
 
 [View the live project here.](https://codeinstitute.net)
 
-This is the ADD, Sligo Employee Intranet, which gives immediate access to our internal business.  The concept of the Intranet is to advance and build awareness of the business to which we all contribute to.
+This is the ADD, Sligo Employee Intranet, which gives immediate access to our internal business.  The concept of the Intranet is to advance and build awareness of the business to which we all contribute to. 
+
+The site will be hosted in SharePoint.  Each Deparment will have a page.  Deparment Page design will be consistant and always carry the site header and navigation Bar.  Business Teams will have the opportunity to host their SharePoint document Libraries & lists from the site. The Workspace dropdown will contain links to common applications, websites etc.  The 'Contact Us' link will provide users an opportunity to provide feedback and suggestions.
+
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for employees.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
