@@ -2,7 +2,10 @@
 
 [View the live project here.](https://codeinstitute.net)
 
-This is the ADD, Sligo Employee Intranet, which gives immediate access to our internal business.  The concept of the Intranet is to advance and build awareness of the business to which we all contribute to.
+This is the ADD, Sligo Employee Intranet, which gives immediate access to our internal business.  The concept of the Intranet is to advance and build awareness of the business to which we all contribute to. 
+
+The site will be hosted in SharePoint.  Each Deparment will have a page.  Deparment Page design will be consistant and always carry the site header and navigation Bar.  Business Teams will have the opportunity to host their SharePoint document Libraries & lists from the site e.g the 'IDEA' & 'Good Catch' initiatives. The Workspace dropdown will contain links to common applications, websites etc.  The 'Contact Us' link will provide users an opportunity to provide feedback and suggestions.
+
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for employees.
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
@@ -13,22 +16,21 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
     -   #### New Hire Goals
 
-        1. As a New Hire Visitor, I want all my commonly used software links in one place a ‘Hub’, so much time will be saved
-        2. As a New Hire Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        3. As a New Hire Visitor, I want to be able to easily navigate throughout the site to find content.
+        1. As a New Hire, I want all my commonly used app links in one place a ‘Hub’, so much time will be saved
+        2. As a New Hire, I want to easily understand the main purpose of the site and learn more about the organisation.
+        3. As a New Hire, I want to be able to easily navigate throughout the site to find content.
 
     -   #### Returning Employee Goals
 
-        1. As a Returning Visitor, I want to find information about Teams I am part off.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+        1. As a Returning Visitor, I want to update Teams files.Add the Idea I have to the IDEA form, and maybe win some Time in Lieu               for my effort 
+        2.  As a Returning Visitor, I want to Sign Up to the latest HR Inititive e.g. CARE Program, Heart Foundation Presentation etc
         
         
 
     -   #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
         2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website             or organisation.
         
      
     -   #### Intranet Owner Goals
