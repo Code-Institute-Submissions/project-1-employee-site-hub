@@ -191,6 +191,11 @@ text-align: center;
 padding-top: 3%;
 padding-bottom: 5%;
 }
+
+/*--------------------------------------------Container-Our-Site*/
+.footer{
+    background-color:#002A3A;
+}
 /*--------------------------------------------MediaQueries*/
 
 /* Extra small devices (phones, 600px and down) */
