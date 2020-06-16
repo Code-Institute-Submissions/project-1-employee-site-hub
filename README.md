@@ -22,14 +22,14 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
     -   #### Returning Employee Goals
 
-        1. As a Returning Visitor, I want to update Teams files.Add the Idea I have to the IDEA form, and maybe win some Time in Lieu               for my effort 
+        1. As a Returning Visitor, I want to update Teams files.Add that great Idea I have to the IDEA form, and maybe win some Time in Lieu               for my effort 
         2.  As a Returning Visitor, I want to Sign Up to the latest HR Inititive e.g. CARE Program, Heart Foundation Presentation etc
         
         
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
+        1. As a Frequent User, I want to check my Team files for new assignments and required approvals.
+        2. As a Frequent User, I want to check the EHS Page for Latest Covid 19 updates.
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website             or organisation.
         
      
