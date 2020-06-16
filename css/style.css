@@ -10,7 +10,7 @@ body{
 /*--------------------------------------------Heading*/
 
 .container-header{
-    background-color:#222731;
+    background-color:#002A3A;
     height: auto;
 }
 
@@ -157,15 +157,10 @@ color: white;
   color: #64ccc9;
 }
 
-/*--------------------------------------------Container-Our-Site*/
-
-.container-oursite{
-background-color: #EEB33B;
-}
 
 /*--------------------------------------------Container-People*/
 .container-people{
-background-color: olive;
+background-color:#D9D9D6;
 text-align: center;
 }
 
@@ -184,7 +179,11 @@ text-align: center;
     background-repeat: no-repeat;
 }
 
+/*--------------------------------------------Container-Our-Site*/
 
+.container-site{
+background-color: #EEB33B;
+}
 
 /*--------------------------------------------MediaQueries*/
 
