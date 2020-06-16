@@ -167,6 +167,7 @@ text-align: center;
 .container-title h3{
     padding-bottom: 2%;
     padding-top: 2%;
+    color: whitesmoke;
 }
 
 .container-people-details img{
@@ -186,6 +187,10 @@ background-color: #EEB33B;
 text-align: center;
 }
 
+.container-site-image img{
+padding-top: 3%;
+padding-bottom: 5%;
+}
 /*--------------------------------------------MediaQueries*/
 
 /* Extra small devices (phones, 600px and down) */
