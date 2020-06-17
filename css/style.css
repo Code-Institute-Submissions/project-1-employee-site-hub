@@ -218,21 +218,20 @@ padding-bottom: 5%;
     background-image: url("/images/contact.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    background-position: center top;
-    height: 50em;
-    
-    
+    background-position: center top; 
+    height: 35em;  
 }
 /*end form*/
 
 .signup-form {
-  margin-top: 150px;
+  margin-top: 3%;
   color: #fff;
   background-color: rgba(60,60,60,0.6);
-  max-width: 400px;
+  max-width: 30em;
   position: absolute;
-  left: 10%;
-  padding: 30px 30px;
+  left: 5%;
+  right: 5%;
+  padding: 3% 3%;
   
 }
 
