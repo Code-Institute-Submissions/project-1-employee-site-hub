@@ -165,6 +165,7 @@ border-bottom: .5em solid #002A3A;
     padding-top: 2%;
     color: whitesmoke;
 }
+/* Copied from the Whiskey Drop lesson */
 
 .container-people-details img{
     position: relative;
@@ -207,8 +208,9 @@ padding-bottom: 5%;
    }
 
 /*--------------------------------------------Contact Us*/
+    /*Copied from 'Love Running' tutorial, and taylored to meet my requirements*/
    /* form */
-
+   
 .form-section {
     background-image: url("/images/contact.jpg");
     background-repeat: no-repeat;
@@ -217,7 +219,7 @@ padding-bottom: 5%;
     height: 30em;  
 }
 /*end form*/
-
+/*Copied from 'Love Running' tutorial, and taylored to meet my requirements*/
 .signup-form {
   margin-top: 3%;
   color: #fff;
@@ -229,11 +231,12 @@ padding-bottom: 5%;
   padding: 3% 3%;
   
 }
-
+/*Copied from 'Love Running' tutorial, and taylored to meet my requirements*/
 .signup-form h2{
   color: #fafafa;
   margin-bottom: 2%;
 }
+/*Copied from 'Love Running' tutorial, and taylored to meet my requirements*/
 .text-input {
   background: transparent;
   color:#fafafa;
@@ -244,10 +247,12 @@ padding-bottom: 5%;
   border: 1px solid #fafafa;
   border-radius: 2px;
 }
+/*Copied from 'Love Running' tutorial, and taylored to meet my requirements*/
 .text-input:hover{
   border-color:#f16c6b;
 }
 
+/*Copied from 'Love Running' tutorial, and taylored to meet my requirements*/
 .join-button {
   border-radius: 12px;
   padding:2% 2% 2% 2%;
@@ -257,7 +262,7 @@ padding-bottom: 5%;
   color: #fafafa;
   display: block;
 }
-
+/*Copied from 'Love Running' tutorial, and taylored to meet my requirements*/
 .join-button:hover{
   background-color: #fafafa;
   color: #f16c6b;
