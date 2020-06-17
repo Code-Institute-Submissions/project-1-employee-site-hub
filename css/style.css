@@ -55,30 +55,25 @@ body{
     height: 1em;
 }
 
-
-#navbarDropdownMenuLink {
+.navbarDropdownMenuLink {
     color:darkgrey;
     font-size: 90%;
     font-weight: bold;
     text-transform: uppercase;
      }
 
+
 .navbar-nav .nav-link{
     text-align: center;
 }
 
-.nav-item .nav-link {
-    font-size: 80%;
-    color:darkgrey;
-    text-transform: uppercase;
-    font-weight: bold;
-}
+
 
 .nav-link a{
-    font-size: 100%;
     color:darkgrey;
-    text-transform: uppercase;
+    font-size: 90%;
     font-weight: bold;
+    text-transform: uppercase;
 }
 
 .dropdown-item {
@@ -254,9 +249,8 @@ padding-bottom: 5%;
 }
 
 .join-button {
-  margin-top: 20px;
   border-radius: 12px;
-  padding:15px 32px 15px 32px;
+  padding:2% 2% 2% 2%;
   text-align: center;
   font-size: 100%;
   background-color: #f16c6b;
