@@ -215,13 +215,12 @@ padding-bottom: 5%;
    /* form */
 
 .form-section {
-background: url(images/contact.jpg) no-repeat center center fixed; 
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-height: 900px;
+    background-image: url("/images/contact.jpg");
+    clear: left;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
 }
-
 /*end form*/
 
 .signup-form {
