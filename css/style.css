@@ -216,10 +216,12 @@ padding-bottom: 5%;
 
 .form-section {
     background-image: url("/images/contact.jpg");
-    clear: left;
-    background-size: cover;
-    background-position: center;
-    height: 900px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center top;
+    height: 50em;
+    
+    
 }
 /*end form*/
 
