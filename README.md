@@ -2,9 +2,11 @@
 
 [View the live project here.]( https://bridcourtney.github.io/project-1-employee-site-hub/)
 
-This is the ADD, Sligo Employee Intranet, which gives immediate access to our internal business.  The concept of the Intranet is to advance and build awareness of the business to which we all contribute to. 
+The ADD, Sligo Employee Intranet, will give Visitors immediate access to our internal business.  The concept of the Intranet is to advance and build awareness of the business to which we all contribute to. 
 
-The site will be hosted on SharePoint.  Each Deparment will have a page.  Deparment Page design will be consistant and always carry the site header and navigation Bar.  Business Teams will have the opportunity to host their SharePoint document Libraries & lists e.g the 'IDEA' & 'Good Catch' initiatives. The EHS, Risk Management and many more teams can share information and updates.  The Workspace dropdown will contain links to common applications, websites etc.  The 'Contact Us' link will provide users an opportunity to provide feedback and suggestions.
+The site will be hosted on SharePoint.  Each Department will have a page.  Department Page design will be streamlined and always carry the site header, footer and navigation Bar for consistency.  
+
+Business Teams will have the opportunity to host their SharePoint document Libraries & lists e.g the 'IDEA' & 'Good Catch' initiatives. The EHS, Risk Management and many more teams can share information and updates.  The Workspace dropdown will contain links to common applications, websites etc.  The 'Contact Us' link will provide users an opportunity to provide feedback and suggestions.
 
 The Sign Up button in the Site Vision area currently links to Our CARE Program, next month there will be a new promotion.  Once the User clicks on the submit button the SharePoint list for the particular promotion will be updated with the persons email. 
 
@@ -38,19 +40,19 @@ It is designed to be responsive and accessible on a range of devices, making it 
     -   #### Intranet Owner Goals
         1. As the Site Owner, I want to provide Employees with 'A Hub' to share information. 
         2. As the Site Owner, I want the Site Vision and the Site Behavior displayed.  Also, information about the site 
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website             or organisation.
+       
 
 -   ### Design
     -   #### Colour Scheme
         -   Color is fundamental in the way we express the Abbott brand. The color palette I used includes, Dark Blue in the                           header and footer of each page.  I used Light Grey as a Neutral Colour in the 'What Our People say' section.  In the                     'Our Site' section I included Gold to give the Site energy.  I also used Gold for the 'CARE Program' button on the main                 Page for a splash of colour.
-            The Site Background colour is White, it acts like a blank stage that draws attention to the Site Content. It also suggests                sophistication. The Gold vibrant color, imagery and typography really ‘pop’ against a white background.
+            The Site Background colour is White, it acts like a blank stage that draws attention to the Site Content.  The vibrant                      color Gold, the imagery used and typography really ‘pop’ out against a white background.
 
     -   #### Typography.
         -   The 'Josefin Sans' font is the main font used throughout the whole website with sans-serif as the fallback font in case for             any reason the font isn't being imported into the site correctly. The 'Josefin Sans'gives the Site an unified appearance                    throughtout 
     -   #### Imagery
-        -   I selected imagery that was not posed or contrived. Nothing treated or stylized.  My photographs share a common thread of              humanity, greatness and authenticity. Images that depict- 
-                - People living in the moment
-                - People engaged in an activity
+        -   I selected imagery that was not posed or contrived. No images that are treated or stylized.  My images share a common thread                of humanity, greatness and authenticity. Images that depict- 
+                - People living in the moment (person snowboarding on Montain Top, Girl Free Floating in water)
+                - People engaged in an activity (Cyclying Team)
                 - Concepts that go beyond what is actually depicted.
                 - Engaging scenery that entices the viewer.
 
@@ -80,22 +82,24 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
+2. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-1. [Google Fonts:](https://fonts.google.com/)
+3. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-1. [Font Awesome:](https://fontawesome.com/)
+4. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
+5. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Git](https://git-scm.com/)
+6. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-1. [GitHub:](https://github.com/)
+7. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [GIMP:](https://developer.gimp.org/)
+8. [GIMP:](https://developer.gimp.org/)
     - GIMP was used resizing images and editing photos for the website.
-1. [Balsamiq:](https://balsamiq.com/)
+9. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+10. Microsoft Paint
+    - Paint was used to create the image about displaying the responsiveness of the Site 
 
 ## Testing
 
@@ -150,16 +154,15 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The Website was tested on Google Chrome, Internet Explorer & Microsoft Edge.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   On small mobile devices the vision container touches the top of the Navigation Bar.
+-   In the Behaviours container I wanted to concatenate the Behaviour with the icon, I did not have time to complete this requirement.        Therfore on some screens the Behaviour may not have the icon beside it, because it is on the line above
 
 ## Deployment
 
@@ -213,10 +216,10 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+-   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly     to make site responsive using the Bootstrap Grid System.
 
 -   The Navbar code was taken from https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp, and taylored to meet my requirements
--    The Carousal code was taken from https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp, I added Captions to Slides and               taylored to meet my requirements 
+-   The Carousal code was taken from https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp, I added Captions to Slides and               taylored to meet my requirements 
 -   I got idea for the rounded images and from the Code Institute page 'What our Graduates say' section, I wrote the code myself and            copied the css for images from the 'Whiskey Drop' tutorial
 -  I copied code for the Modal Form from the Whiskey Drop lesson
 -  I Copied the script for the submit Alert on the CARE Program form https://www.codecademy.com/forum_questions/512d28a06918338f2300e9ea
