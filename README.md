@@ -24,7 +24,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to update Teams files.Add that great Idea I have to the IDEA form, and maybe win some Time in Lieu               for my effort 
+        1. As a Returning Visitor, I want to update Teams files. Add that great Idea I have to the IDEA form, and maybe win some Time in            Lieu for my effort 
         2.  As a Returning Visitor, I want to Sign Up to the latest HR Inititive e.g. CARE Program, Heart Foundation Presentation etc
         
         
@@ -32,18 +32,20 @@ It is designed to be responsive and accessible on a range of devices, making it 
     -   #### Frequent User Goals
         1. As a Frequent User, I want to check my Team files for new assignments and required approvals.
         2. As a Frequent User, I want to check the EHS Page for Latest Covid 19 updates.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website             or organisation.
+        3. As a Frequent User, I want to submit Suggestion from the 'Contact Us' page
         
      
     -   #### Intranet Owner Goals
         1. As the Site Owner, I want to provide Employees with 'A Hub' to share information. 
         2. As the Site Owner, I want the Site Vision and the Site Behavior displayed.  Also, information about the site 
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website             or organisation.
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
-    -   #### Typography
+        -   Color is fundamental in the way we express the Abbott brand. The color palette I used includes, Dark Blue in the                           header and footer of each page.  I used Light Grey as a Neutral Colour in the 'What Our People say' section.  In the                     'Our Site' section I included Gold to give the Site energy.  I also used Gold for the 'CARE Program' button on the main                 Page.
+            The Site Background colour is White, it acts like a blank stage that draws attention to the Site Content. It also suggests                sophistication or simplicity. The Gold vibrant color, imagery and typography really ‘pop’ against a white background.
+
+    -   #### Typography.
         -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
