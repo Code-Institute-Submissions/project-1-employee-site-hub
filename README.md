@@ -56,7 +56,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](wireframes/Home-Page.pdf)
 
     -   Mobile Wireframe - [View](https://github.com/)
 
