@@ -212,21 +212,22 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
-
 -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+-   The Navbar code was taken from https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp, and taylored to meet my requirements
+-    The Carousal code was taken from https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp, I added Captions to Slides and               taylored to meet my requirements 
+-   I got idea for the rounded images and from the Code Institute page 'What our Graduates say' section, I wrote the code myself and            copied the css for images from the 'Whiskey Drop' tutorial
+-  I copied code for the Modal Form from the Whiskey Drop lesson
+-  I Copied the script for the submit Alert on the CARE Program form https://www.codecademy.com/forum_questions/512d28a06918338f2300e9ea
 
 ### Content
 
 -   All content was written by the developer.
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 
--   All Images were created by the developer.
+-   All Images were downloaded from the Abbott Branding SharePoint site
 
 ### Acknowledgements
 
