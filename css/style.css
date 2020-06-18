@@ -55,26 +55,16 @@ body{
     height: 1em;
 }
 
-.navbarDropdownMenuLink {
-    color:darkgrey;
-    font-size: 90%;
-    font-weight: bold;
-    text-transform: uppercase;
-     }
-
-
-.navbar-nav .nav-link{
+.navbar-nav {
     text-align: center;
 }
 
-
-
-.nav-link a{
+.navbarDropdownMenuLink > .nav-link a{
     color:darkgrey;
-    font-size: 90%;
+    font-size: 80%;
     font-weight: bold;
-    text-transform: uppercase;
-}
+     }
+
 
 .dropdown-item {
     font-size: 80%;
