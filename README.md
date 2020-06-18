@@ -10,7 +10,7 @@ The Sign Up button in the Site Vision area currently links to Our CARE Program, 
 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for employees.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="images/Responsive_ShowCase.png"></h2>
 
 ## User Experience (UX)
 
