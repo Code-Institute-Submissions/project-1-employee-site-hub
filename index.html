@@ -244,16 +244,29 @@
                             <form>
                                 <div class="form-group">
                                     <label for="exampleInputEmail1">Email address</label>
-                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
                                     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
                                 </div>
-                                <button type="submit" class="btn btn-success">Submit</button>
+                                <!--Copied onclick & value from - https://www.codecademy.com/forum_questions/512d28a06918338f2300e9ea-->
+                                <button type="submit" onclick="clickAlert()" value="Click-2-Alert" class="btn btn-success">Submit</button>
+                                
                             </form>
                         </div>
                     </div>
                 </div>
             </div>
-
+            <!--Copied script from - https://www.codecademy.com/forum_questions/512d28a06918338f2300e9ea-->
+            <!--got $("#exampleInputEmail1").val(); from https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript-->
+            <script>
+                function clickAlert() {
+                    var email = $("#exampleInputEmail1").val();
+                    if (email === ""){
+                    alert("Please enter your email address");
+                    }else {
+                        alert("Successfully submitted, Welcome to the CARE Program");
+                    }
+                }
+                </script>
             <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
             <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
