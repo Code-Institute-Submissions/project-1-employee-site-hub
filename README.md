@@ -25,7 +25,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
     -   #### Returning Visitor Goals
 
         1. As a Returning Visitor, I want to update Teams files. Add that great Idea I have to the IDEA form, and maybe win some Time in            Lieu for my effort 
-        2.  As a Returning Visitor, I want to Sign Up to the latest HR Inititive e.g. CARE Program, Heart Foundation Presentation etc
+        2.  As a Returning Visitor, I want to Sign Up to the latest HR Inititive e.g. CARE Program, Heart Foundation Presentation Sign              Up etc
         
         
 
