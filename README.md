@@ -46,7 +46,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
             The Site Background colour is White, it acts like a blank stage that draws attention to the Site Content. It also suggests                sophistication. The Gold vibrant color, imagery and typography really ‘pop’ against a white background.
 
     -   #### Typography.
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The 'Josefin Sans' font is the main font used throughout the whole website with sans-serif as the fallback font in case for             any reason the font isn't being imported into the site correctly. The 'Josefin Sans'gives the Site an unified appearance                    throughtout 
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
