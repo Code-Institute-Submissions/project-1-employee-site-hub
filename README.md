@@ -151,13 +151,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     
         1. Historically file e.g. excel etc were located on shared drives and updated by Team.  In Office 365 file sharing is not                   meeting Customer Satisfaction and has led to data loss.  Therefore SharePoint Document list and Library Webparts offers                 Teams a Safer more reliable altenative
         
-  -   #### Intranet Owner Goals
 
-  3. As a Frequent User, I want to check my Team files for new assignments and required approvals.
-    
-        1. Historically file e.g. excel etc were located on shared drives and updated by Team.  In Office 365 file sharing is not                   meeting Customer Satisfaction and has led to data loss.  Therefore SharePoint Document list and Library Webparts offers                 Teams a Safer more reliable altenative
-       
-
+     
 ### Further Testing
 
 -   The Website was tested on Google Chrome, Internet Explorer & Microsoft Edge.
@@ -168,7 +163,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Known Bugs
 
 -   On small mobile devices the vision container touches the top of the Navigation Bar.
--   In the Behaviours container I wanted to concatenate the Behaviour with the icon, I did not have time to complete this requirement.        Therfore on some screens the Behaviour may not have the icon beside it, because it is on the line above
+-   In the Behaviours container I wanted to concatenate the Behaviour with the icon, I did not have time to complete this requirement.        Therefore on some screens the Behaviour may not have the icon beside it, because it is on the line above
 
 ## Deployment
 
