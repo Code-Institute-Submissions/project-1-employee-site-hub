@@ -59,7 +59,13 @@ body{
     text-align: center;
 }
 
-.navbarDropdownMenuLink > .nav-link a{
+.navbarDropdownMenuLink a{
+    color:darkgrey;
+    font-size: 80%;
+    font-weight: bold;
+     }
+
+.nav-link a{
     color:darkgrey;
     font-size: 80%;
     font-weight: bold;
