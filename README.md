@@ -16,11 +16,11 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 -   ### User stories
 
-    -   #### New Hire Goals
+    -   #### New Visitor Goals
 
-        1. As a New Hire, I want all my commonly used app links in one place a ‘Hub’, so much time will be saved
-        2. As a New Hire, I want to easily understand the main purpose of the site and learn more about the organisation.
-        3. As a New Hire, I want to be able to easily navigate throughout the site to find content.
+        1. As a New Visitor, I want all my commonly used app links in one place a ‘Hub’, so much time will be saved
+        2. As a New Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+        3. As a New Visitor, I want to be able to easily navigate throughout the site to find content.
 
     -   #### Returning Visitor Goals
 
@@ -42,13 +42,17 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 -   ### Design
     -   #### Colour Scheme
-        -   Color is fundamental in the way we express the Abbott brand. The color palette I used includes, Dark Blue in the                           header and footer of each page.  I used Light Grey as a Neutral Colour in the 'What Our People say' section.  In the                     'Our Site' section I included Gold to give the Site energy.  I also used Gold for the 'CARE Program' button on the main                 Page.
-            The Site Background colour is White, it acts like a blank stage that draws attention to the Site Content. It also suggests                sophistication or simplicity. The Gold vibrant color, imagery and typography really ‘pop’ against a white background.
+        -   Color is fundamental in the way we express the Abbott brand. The color palette I used includes, Dark Blue in the                           header and footer of each page.  I used Light Grey as a Neutral Colour in the 'What Our People say' section.  In the                     'Our Site' section I included Gold to give the Site energy.  I also used Gold for the 'CARE Program' button on the main                 Page for a splash of colour.
+            The Site Background colour is White, it acts like a blank stage that draws attention to the Site Content. It also suggests                sophistication. The Gold vibrant color, imagery and typography really ‘pop’ against a white background.
 
     -   #### Typography.
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The 'Josefin Sans' font is the main font used throughout the whole website with sans-serif as the fallback font in case for             any reason the font isn't being imported into the site correctly. The 'Josefin Sans'gives the Site an unified appearance                    throughtout 
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   I selected imagery that was not posed or contrived. Nothing treated or stylized.  My photographs share a common thread of              humanity, greatness and authenticity. Images that depict- 
+                - People living in the moment
+                - People engaged in an activity
+                - Concepts that go beyond what is actually depicted.
+                - Engaging scenery that entices the viewer.
 
 *   ### Wireframes
 
@@ -70,6 +74,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+    Small piece of Java Script for Validation of 'Submit' Comment on the 'Contact Us' page.  If the user does not enter their Email address and they hit the 'Submit' button, they will get a message to fill in the Email field.  Once they fill in the Email field and hit the 'Submit' button, User will receive a confirmation message.
 
 ### Frameworks, Libraries & Programs Used
 
@@ -87,8 +92,8 @@ It is designed to be responsive and accessible on a range of devices, making it 
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
+1. [GIMP:](https://developer.gimp.org/)
+    - GIMP was used resizing images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
@@ -103,48 +108,35 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+    1. As a New Visitor, I want all my commonly used app links in one place a ‘Hub’, so much time will be saved
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-        2. The main points are made immediately with the hero image
-        3. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
+         1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page            of their choice.  In this case the user is looking for the Workspace Dropdwon that contains a list of commonly used apps &             websites
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+    2. As a New Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+        1. The site contains the workplace Vision and Behaviours.  The Our Site section give New visitor an overview of their new                   workplace
 
-    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
-        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+    3. As a New Visitor, I want to be able to easily navigate throughout the site to find content.
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page            of their choice. Each page in the site will have an uniform header and Navigation Bar that will intutively bring the User where            they wan to go
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
+    1. As a Returning Visitor, I want to update Teams files. Add that great Idea I have to the IDEA form, and maybe win some Time in            Lieu for my effort 
 
-        1. These are clearly shown in the banner message.
-        2. They will be directed to a page with another hero image and call to action.
+        1. All Team can be easily found under the Team dropdown
+      
 
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+    2. As a Returning Visitor, I want to Sign Up to the latest HR Inititive e.g. CARE Program, Heart Foundation Presentation etc
 
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+        1. Sign Up to various Initiatives will be available on the Home Page in the Our Vision section
 
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
+.
 
 -   #### Frequent User Goals
 
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+    1. As a Frequent User, I want to check the EHS Page for Latest Covid 19 updates.
 
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
+        1. The EHS Page will be available from the Navigation Bar with all the latest updates
 
     2. As a Frequent User, I want to check to see if there are any new blog posts.
 
@@ -220,21 +212,22 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
-
 -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+-   The Navbar code was taken from https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp, and taylored to meet my requirements
+-    The Carousal code was taken from https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp, I added Captions to Slides and               taylored to meet my requirements 
+-   I got idea for the rounded images and from the Code Institute page 'What our Graduates say' section, I wrote the code myself and            copied the css for images from the 'Whiskey Drop' tutorial
+-  I copied code for the Modal Form from the Whiskey Drop lesson
+-  I Copied the script for the submit Alert on the CARE Program form https://www.codecademy.com/forum_questions/512d28a06918338f2300e9ea
 
 ### Content
 
 -   All content was written by the developer.
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 
--   All Images were created by the developer.
+-   All Images were downloaded from the Abbott Branding SharePoint site
 
 ### Acknowledgements
 
