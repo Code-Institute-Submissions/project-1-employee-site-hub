@@ -60,7 +60,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
     -   Mobile Wireframe - [View](https://github.com/)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Contact Us Page Wireframe - [View](wireframes/Contact_Us.pdf)
 
 ## Features
 
@@ -74,7 +74,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-    Small piece of Java Script for Validation of 'Submit' Comment on the 'Contact Us' page.  If the user does not enter their Email address and they hit the 'Submit' button, they will get a message to fill in the Email field.  Once they fill in the Email field and hit the 'Submit' button, User will receive a confirmation message.
+-   Small piece of Java Script for Validation of 'Submit' Comment on the 'Contact Us' page.  If the user does not enter their Email         address and they hit the 'Submit' button, they will get a message to fill in the Email field.  Once they fill in the Email field and        hit the 'Submit' button, User will receive a confirmation message.
 
 ### Frameworks, Libraries & Programs Used
 
