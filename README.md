@@ -42,7 +42,9 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 -   ### Design
     -   #### Colour Scheme
-        -   Color is fundamental in the way we express the Abbott brand. The color palette I used includes, Abbott Dark Blue in the                 header and footer of each page.  I used Abbott Light Grey as a Neutral Colour in the 'What Our People say' section.   In the 'Our Site' section I included Abbott Gold to give the Site energy.  I also used the Abbott Gold saythe following-Primary colors,                   Secondary colors.  Abbott Dar Bluke and black are our primary colors. They are used for our signature and carry significant brand equity to our new visual system.
+        -   Color is fundamental in the way we express the Abbott brand. The color palette I used includes, Dark Blue in the                           header and footer of each page.  I used Light Grey as a Neutral Colour in the 'What Our People say' section.  In the                     'Our Site' section I included Gold to give the Site energy.  I also used Gold for the 'CARE Program' button on the main                 Page.
+            The Site Background colour is White, it acts like a blank stage that draws attention to the Site Content. It also suggests                sophistication or simplicity. The Gold vibrant color, imagery and typography really ‘pop’ against a white background.
+
     -   #### Typography.
         -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
     -   #### Imagery
