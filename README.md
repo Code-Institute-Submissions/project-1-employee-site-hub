@@ -4,7 +4,7 @@
 
 This is the ADD, Sligo Employee Intranet, which gives immediate access to our internal business.  The concept of the Intranet is to advance and build awareness of the business to which we all contribute to. 
 
-The site will be hosted on SharePoint.  Each Deparment will have a page.  Deparment Page design will be consistant and always carry the site header and navigation Bar.  Business Teams will have the opportunity to host their SharePoint document Libraries & lists from the site e.g the 'IDEA' & 'Good Catch' initiatives. The EHS and Risk Management team and many more can share information and updates.  The Workspace dropdown will contain links to common applications, websites etc.  The 'Contact Us' link will provide users an opportunity to provide feedback and suggestions.
+The site will be hosted on SharePoint.  Each Deparment will have a page.  Deparment Page design will be consistant and always carry the site header and navigation Bar.  Business Teams will have the opportunity to host their SharePoint document Libraries & lists e.g the 'IDEA' & 'Good Catch' initiatives. The EHS, Risk Management and many more teams can share information and updates.  The Workspace dropdown will contain links to common applications, websites etc.  The 'Contact Us' link will provide users an opportunity to provide feedback and suggestions.
 
 The Sign Up button in the Site Vision area currently links to Our CARE Program, next month there will be a new promotion.  Once the User clicks on the submit button the SharePoint list for the particular promotion will be updated with the persons email. 
 
