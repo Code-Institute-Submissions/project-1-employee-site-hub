@@ -1,6 +1,6 @@
 <h1 align="center">ADD, Sligo Intranet</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.]( https://bridcourtney.github.io/project-1-employee-site-hub/)
 
 This is the ADD, Sligo Employee Intranet, which gives immediate access to our internal business.  The concept of the Intranet is to advance and build awareness of the business to which we all contribute to. 
 
