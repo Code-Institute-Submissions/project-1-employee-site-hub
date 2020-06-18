@@ -119,10 +119,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     2. As a New Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
-        1. The site contains the workplace Vision and Behaviours.  The Our Site section give New visitor an overview of their new                   workplace
+        1. The site contains the workplace Vision and Behaviours.  The 'Our Site' section give New visitor an overview of their new                   workplace
 
     3. As a New Visitor, I want to be able to easily navigate throughout the site to find content.
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page            of their choice. Each page in the site will have an uniform header and Navigation Bar that will intutively bring the User where            they wan to go
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page            of their choice. Each page in the site will have an uniform header, footer and Navigation Bar that will intutively bring the User          where they wan to go
 
 -   #### Returning Visitor Goals
 
@@ -143,14 +143,20 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
         1. The EHS Page will be available from the Navigation Bar with all the latest updates
 
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
+    2. As a Frequent User, I want to submit Suggestion from the 'Contact Us' page
 
-        1. The user would already be comfortable with the website layout and can easily click the blog link
+        1. Link to the Contact Us page is available from the Home Page, User can easily navigate bach to HomePage on completion
 
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+    3. As a Frequent User, I want to check my Team files for new assignments and required approvals.
+    
+        1. Historically file e.g. excel etc were located on shared drives and updated by Team.  In Office 365 file sharing is not                   meeting Customer Satisfaction and has led to data loss.  Therefore SharePoint Document list and Library Webparts offers                 Teams a Safer more reliable altenative
+        
+  -   #### Intranet Owner Goals
+
+  3. As a Frequent User, I want to check my Team files for new assignments and required approvals.
+    
+        1. Historically file e.g. excel etc were located on shared drives and updated by Team.  In Office 365 file sharing is not                   meeting Customer Satisfaction and has led to data loss.  Therefore SharePoint Document list and Library Webparts offers                 Teams a Safer more reliable altenative
+       
 
 ### Further Testing
 
@@ -222,7 +228,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   The Carousal code was taken from https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp, I added Captions to Slides and               taylored to meet my requirements 
 -   I got idea for the rounded images and from the Code Institute page 'What our Graduates say' section, I wrote the code myself and            copied the css for images from the 'Whiskey Drop' tutorial
 -  I copied code for the Modal Form from the Whiskey Drop lesson
--  I Copied the script for the submit Alert on the CARE Program form https://www.codecademy.com/forum_questions/512d28a06918338f2300e9ea
+-  I copied the script for the submit Alert on the CARE Program form https://www.codecademy.com/forum_questions/512d28a06918338f2300e9ea
+-  I got $("#exampleInputEmail1").val(); from https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript,     then I was able to check if the email field was blank
+-  In the Contact Us page I copied the Form element & associated CSS from 'Love Running' tutorial, and taylored to meet my requirements
 
 ### Content
 
@@ -231,8 +239,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   All Images were downloaded from the Abbott Branding SharePoint site
-
+-   All the Carousal Images, Contact Us Background and the Abbott logo's were downloaded from the Abbott Branding SharePoint site
+ 
 ### Acknowledgements
 
 -   My Mentor for continuous helpful feedback.
