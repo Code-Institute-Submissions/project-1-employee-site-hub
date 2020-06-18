@@ -49,10 +49,10 @@ It is designed to be responsive and accessible on a range of devices, making it 
         -   The 'Josefin Sans' font is the main font used throughout the whole website with sans-serif as the fallback font in case for             any reason the font isn't being imported into the site correctly. The 'Josefin Sans'gives the Site an unified appearance                    throughtout 
     -   #### Imagery
         -   I selected imagery that was not posed or contrived. Nothing treated or stylized.  My photographs share a common thread of              humanity, greatness and authenticity. Images that depict- 
-           - People living in the moment
-                       2.  People engaged in an activity.
-                       3.  Concepts that go beyond what is actually depicted.
-                       4.  Engaging scenery that entices the viewer.
+                - People living in the moment
+                - People engaged in an activity
+                - Concepts that go beyond what is actually depicted.
+                - Engaging scenery that entices the viewer.
 
 *   ### Wireframes
 
