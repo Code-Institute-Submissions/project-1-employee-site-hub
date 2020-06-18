@@ -51,7 +51,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
         -   The 'Josefin Sans' font is the main font used throughout the whole website with sans-serif as the fallback font in case for             any reason the font isn't being imported into the site correctly. The 'Josefin Sans'gives the Site an unified appearance                    throughtout 
     -   #### Imagery
         -   I selected imagery that was not posed or contrived. No images that are treated or stylized.  My images share a common thread                of humanity, greatness and authenticity. Images that depict- 
-    - ##### People living in the moment (person snowboarding on Montain Top, Girl Free Floating in water)
+       - ##### People living in the moment (person snowboarding on Montain Top, Girl Free Floating in water 'Contact Us' page)
                 - People engaged in an activity (Cyclying Team)
                 - Concepts that go beyond what is actually depicted.
                 - Engaging scenery that entices the viewer.
